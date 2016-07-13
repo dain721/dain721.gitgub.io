@@ -11,7 +11,7 @@ description:         'A reserved <a href="http://jekyllrb.com" target="_blank">J
 url:                 https://kimda.github.io
 baseurl:             ''
 paginate:            5
-github_repo:         https://www.github.com/kimda
+github_repo:         https://www.github.com/dain721
 
 # About/contact
 author:
