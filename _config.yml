@@ -30,9 +30,9 @@ links:
   - title: Archive
     url: /archive/
   - title: Contact
-   url: /contact/
+    url: /contact/
   - title: <i class="iconside iconm-feed2"></i> Feed
-   url: /feed.xml
+    url: /feed.xml
    
 # Custom vars
 version:             1.0.0
