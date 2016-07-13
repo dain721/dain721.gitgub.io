@@ -19,9 +19,6 @@ author:
   url:               https://kimda.github.io
   email:             kimda721@gmail.com
 
-# Custom vars
-version:             1.0.0
-
 ## sidebar links:
 # For external links add external: true
 links:
